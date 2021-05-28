@@ -137,7 +137,6 @@ ul{
 .home .home_img{
     flex: 0.5;
     text-align: center;
-    
 }
 
 .home_img img{
@@ -196,12 +195,13 @@ ul{
 }
 
 .about_img img{
-    width: 400px;
-    height: 400px;
-    border-radius: 50%;
+    width: 350px;
+    height: 350px;
+    /* border-radius: 50%; */
     object-fit: cover;
-    border: 5px solid black;
+    /* border: 5px solid black; */
 }
+
 
 .about_text{
     flex: 0.5;
